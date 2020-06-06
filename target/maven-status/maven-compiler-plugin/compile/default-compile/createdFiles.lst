@@ -1,0 +1,6 @@
+Appium\AppiumAutomation\Basic.class
+pageObject\ProductPage.class
+resources\Listeners.class
+Appium\AppiumAutomation\UtilityClass.class
+pageObject\CartPage.class
+pageObject\HomePage.class

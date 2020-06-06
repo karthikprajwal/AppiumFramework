@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="197364" started-at="2020-06-02T09:31:31 IST" finished-at="2020-06-02T09:34:48 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="197364" started-at="2020-06-02T09:31:31 IST" finished-at="2020-06-02T09:34:48 IST">
+      <class name="Appium.AppiumAutomation.homePageTest">
+        <test-method status="PASS" signature="killAllActiveServers()[pri:0, instance:Appium.AppiumAutomation.homePageTest@23faf8f2]" name="killAllActiveServers" is-config="true" duration-ms="4047" started-at="2020-06-02T09:31:31 IST" finished-at="2020-06-02T09:31:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- killAllActiveServers -->
+        <test-method status="PASS" signature="settingCapability()[pri:0, instance:Appium.AppiumAutomation.homePageTest@23faf8f2]" name="settingCapability" duration-ms="193213" started-at="2020-06-02T09:31:35 IST" finished-at="2020-06-02T09:34:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- settingCapability -->
+      </class> <!-- Appium.AppiumAutomation.homePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
